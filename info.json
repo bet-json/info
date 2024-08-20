@@ -1,1 +1,6 @@
-
+{
+  "bot_token_setting":{
+    "min_token":2,
+    "max_token":20
+  }
+}
