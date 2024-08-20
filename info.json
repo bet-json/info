@@ -1,5 +1,5 @@
 {
-  token_setting:[
+  "token_setting":[
     ["BOT", 2, 20],
     ["UPME", 2, 25],
     ["HELIOS", 2, 25]
