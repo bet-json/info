@@ -1,7 +1,7 @@
 {
   "token_setting":[
-    ["BOT", 2, 20],
-    ["UPME", 2, 25],
-    ["HELIOS", 2, 25]
+    ["BOT", "asimo", 2, 20],
+    ["UPME", "upme.bet", 2, 25],
+    ["HELIOS", "helios.bet", 2, 25]
   ]
 }
